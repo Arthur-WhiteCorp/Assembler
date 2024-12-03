@@ -1,4 +1,3 @@
-```markdown
 # MiniC Assembler
 
 ## Visão Geral
@@ -62,4 +61,3 @@ Consulte o repositório do emulador para instruções detalhadas sobre a execuç
 ---
 
 Este projeto visa não apenas a criação de um assembler funcional, mas também a promoção de uma compreensão mais profunda dos conceitos de **linguagens assembly**, **compiladores**, e **arquitetura de sistemas**.
-```
