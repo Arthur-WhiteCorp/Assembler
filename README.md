@@ -44,7 +44,7 @@ Consulte o repositório do emulador para instruções detalhadas sobre a execuç
 
 1. **Clone este repositório:**
    ```bash
-   git clone https://github.com/Arthur-WhiteCorp/MiniC-Assembler.git
+   git clone https://github.com/Arthur-WhiteCorp/Assembler.git
    cd MiniC-Assembler
    ```
 
